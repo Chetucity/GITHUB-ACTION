@@ -1,7 +1,7 @@
 name: my_first_github_action
 on: [push]
 jobs:
-  run-shell-commands:
+  run-shelLl-commands:
     runs-on: ubuntu-latest
     steps:
       - name: echo a string
